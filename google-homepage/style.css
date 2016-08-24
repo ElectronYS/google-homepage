@@ -1,0 +1,24 @@
+.topbar {display: none;}
+
+.google {
+	    padding: 100px 50px 50px 440px;
+}
+form input {
+    height: 30px;
+    width: 650px;
+    margin: 0px 0px 0px 120px;
+}
+#search {
+    font-family: Arial, Sans-serif;
+    margin: 15px 15px 15px 330px;
+    height: 30px;
+    border: 1px solid #ababab;
+    border-radius: 2px;
+}
+#lucky {
+    font-family: Arial, Sans-serif;
+    margin: 15px 15px 15px 0px;
+    height: 30px;
+    border: 1px solid #ababab;
+    border-radius: 2px;
+}
